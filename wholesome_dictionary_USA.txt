@@ -3281,7 +3281,6 @@ applicator
 applicators
 applied
 applies
-appliqu?appliqu僤
 appliqu僫ng
 appliqu僺
 apply
@@ -4281,7 +4280,6 @@ attach
 attachable
 attached
 attaches
-attach?attaching
 attachment
 attachments
 attack
@@ -7017,7 +7015,6 @@ blarney
 blarneyed
 blarneying
 blarneys
-blas?blaspheme
 blasphemed
 blasphemer
 blasphemers
@@ -19036,8 +19033,6 @@ dextrally
 dextras
 dextrin
 dextrose
-d僣lass?d僣olletage
-d僣ollet?d僼ente
 d僼entes
 dfc
 dhabi
@@ -23543,8 +23538,6 @@ entomologists
 entomology
 entourage
 entourages
-entr'acte
-entr'actes
 entrails
 entrain
 entrained
@@ -26151,7 +26144,6 @@ fezzes
 fi
 fiancee
 fiancees
-fianc?fianc僺
 fiasco
 fiascoes
 fiat
@@ -31074,7 +31066,6 @@ habituating
 habituation
 habitude
 habitudes
-habitu?habitu僺
 hable
 hables
 hac
@@ -40799,7 +40790,6 @@ mackinaws
 mackintosh
 mackintoshes
 macmillan
-macram?macro
 macrobiotic
 macrobiotics
 macrocosm
@@ -41376,7 +41366,6 @@ manor
 manorial
 manors
 manpower
-manqu?mans
 mansard
 mansards
 manse
@@ -43779,7 +43768,6 @@ moiled
 moiling
 moils
 moines
-moir?moist
 moisten
 moistened
 moistening
@@ -44956,7 +44944,6 @@ nairobi
 naive
 naively
 naives
-naivet?naivety
 na抐
 na抐s
 naked
@@ -47579,7 +47566,6 @@ outreach
 outreached
 outreaches
 outreaching
-outr?outrider
 outriders
 outrigger
 outriggers
@@ -53766,7 +53752,6 @@ protester
 protesters
 protesting
 protests
-prot僩?prot僩僺
 protheses
 prothesis
 prothonotaries
@@ -55895,7 +55880,6 @@ recheck
 rechecked
 rechecking
 rechecks
-recherch?recht
 recidivism
 recidivist
 recidivists
@@ -58771,7 +58755,6 @@ risks
 risky
 risotto
 risottos
-risqu?rissole
 rissoles
 rite
 rites
@@ -59128,7 +59111,6 @@ rotunda
 rotundas
 rotundity
 rouen
-rou?rou僺
 rouge
 rouged
 rouges
@@ -60108,7 +60090,6 @@ sausage
 sausages
 sauterne
 sauternes
-saut?saut僥d
 saut僫ng
 saut僺
 sauvignon
@@ -63939,7 +63920,6 @@ societal
 societas
 societies
 society
-soci僼?sociological
 sociologically
 sociologist
 sociologists
@@ -63996,7 +63976,6 @@ soggier
 soggiest
 sogginess
 soggy
-soign?soign僥
 soil
 soiled
 soiling
@@ -64315,7 +64294,6 @@ sot
 sots
 soubrette
 soubrettes
-souffl?souffl僺
 sough
 soughed
 soughing
@@ -77696,4 +77674,3 @@ zygotes
 zygotic
 zymology
 zymurgy
-
